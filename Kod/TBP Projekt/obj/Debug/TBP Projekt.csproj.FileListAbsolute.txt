@@ -1,0 +1,132 @@
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.exe.config
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.exe
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.pdb
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csprojAssemblyReference.cache
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.Properties.Resources.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.GenerateResource.cache
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.exe
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.pdb
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmNarudzbe.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmPocetna.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\Npgsql.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Buffers.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Memory.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Json.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Channels.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.ValueTuple.dll
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\Npgsql.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Buffers.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Memory.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Json.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Channels.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\bin\Debug\System.ValueTuple.xml
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.CopyComplete
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmSkladiste.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmPoslovniPartner.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmProizvod.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmZaposlenik.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmRacun.resources
+C:\Users\Klems\source\repos\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmAnaliza.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.exe.config
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.exe
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.pdb
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\Npgsql.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Buffers.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Memory.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Json.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Channels.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.ValueTuple.dll
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\Npgsql.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Buffers.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Memory.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Json.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Channels.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\bin\Debug\System.ValueTuple.xml
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.AssemblyReference.cache
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmAnaliza.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmNarudzbe.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmPocetna.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmPoslovniPartner.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmProizvod.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmSkladiste.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmRacun.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmZaposlenik.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.Properties.Resources.resources
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.GenerateResource.cache
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.CoreCompileInputs.cache
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.CopyComplete
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.exe
+C:\Users\tommy\Downloads\AŠ\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.pdb
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.exe.config
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.exe
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\TBP Projekt.pdb
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\Npgsql.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Buffers.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Memory.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Json.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Channels.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.ValueTuple.dll
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\Npgsql.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Buffers.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Collections.Immutable.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Memory.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Text.Json.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Channels.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\bin\Debug\System.ValueTuple.xml
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.AssemblyReference.cache
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmAnaliza.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmNarudzbe.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmPocetna.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmPoslovniPartner.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmProizvod.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmSkladiste.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmRacun.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.frmZaposlenik.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP_Projekt.Properties.Resources.resources
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.GenerateResource.cache
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.CoreCompileInputs.cache
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.csproj.CopyComplete
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.exe
+C:\Users\serda\Desktop\klems\TBP Projekt\TBP Projekt\obj\Debug\TBP Projekt.pdb
